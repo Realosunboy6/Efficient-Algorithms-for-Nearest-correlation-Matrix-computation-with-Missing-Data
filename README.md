@@ -238,6 +238,6 @@ Refer to the NearestCorrelationMatrix package docs for exact function names and 
 
 - Author / Owner: Realosunboy6
 - For licensing, cite the thesis or contact the repository owner if you need explicit permission to reuse data or code for non-academic projects.
-- Contact / Questions: (use your GitHub profile) https://github.com/Realosunboy6
+- Contact / Questions: (use your GitHub profile) https://github.com/Realosunboy6 (ioyeyinka1@niu.edu)
 
 ---
