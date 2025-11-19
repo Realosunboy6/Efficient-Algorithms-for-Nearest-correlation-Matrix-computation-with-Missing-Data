@@ -241,8 +241,3 @@ Refer to the NearestCorrelationMatrix package docs for exact function names and 
 - Contact / Questions: (use your GitHub profile) https://github.com/Realosunboy6
 
 ---
-
-Thank you for using this repository. If you want, I can:
-- Expand this README with usage examples showing the exact commands used in thesis experiments (MAP, Anderson acceleration).
-- Convert the notebook preprocessing cells into a standalone Julia script with CLI options (data directory, start/end dates, output file paths).
-- Add a small example dataset and tests to make it easier for others to verify the pipeline.
