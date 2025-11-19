@@ -90,4 +90,3 @@ Everything that follows—MAP iterations, Anderson Acceleration, weighted Froben
 
 ---
 
-If you want, I can also generate a polished README section describing how to run the notebook, system requirements, or how this fits into the wider thesis repository.
