@@ -1,4 +1,4 @@
-The code in your `THESISCODE.ipynb` notebook is a Julia script for loading, processing, and analyzing stock market data, likely as a preparatory step for further financial modeling or algorithmic research (such as computing nearest correlation matrices with missing data). Here’s a summary of what each section does:
+The `THESISCODE.ipynb` notebook is a Julia script for loading, processing, and analyzing stock market data, likely as a preparatory step for further financial modeling or algorithmic research (such as computing nearest correlation matrices with missing data). Here’s a summary of what each section does:
 
 ### 1. **Package Imports**
 - Loads various Julia packages for data handling (`CSV`, `DataFrames`), time series analysis (`TSFrames`), numerical/statistical operations (`Statistics`, `NaNStatistics`, `LinearAlgebra`, `LinearAlgebra.LAPACK`), portfolio analytics, and timing code execution.
